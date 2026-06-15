@@ -1,7 +1,7 @@
 TrackMeNot
 =================
 
-This project is NOT currently being maintained and the extension has been removed from the various stores. Code is made available only for developers to fork.  <!--This is the FireFox version of the project, for Chrome see https://github.com/vtoubiana/TrackMeNot-Chrome.-->
+This project is NOT currently being maintained and the extension has been removed from the various stores.<br><br>_Code is made available only for developers to fork._  <!--This is the FireFox version of the project, for Chrome see https://github.com/vtoubiana/TrackMeNot-Chrome.-->
 
 
 -------------
