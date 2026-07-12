@@ -58,7 +58,7 @@ TRACKMENOT.Menus = function() {
 document.addEventListener('DOMContentLoaded', function () {
   $("#trackmenot-menu-useTab").click(TRACKMENOT.Menus.toggleTabFrame);
   $("#trackmenot-enabled").click(TRACKMENOT.Menus.toggleOnOff);
-  $("#trackmenot-menu-win").click(function() { window.open(api.extension.getURL('options.html'));});
+  $("#trackmenot-menu-win").click(function() { window.open(api.runtime.getURL('options.html'));});
   $("#trackmenot-menu-help").click(TRACKMENOT.Menus.showHelp)
   api.storage.local.get(["options_tmn"],TRACKMENOT.Menus.onLoadMenu)
 });
